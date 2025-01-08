@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Padel Prime</string>
+    <string name="hallo">Hallo</string>
+    <string name="hello">Hello,</string>
+    <string name="sadek_zedan">Sadek Zedan</string>
+    <string name="matches">Matches</string>
+    <string name="d_c_b"><![CDATA[D,C&b]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
